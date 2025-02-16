@@ -32,10 +32,6 @@ Causal inference is essential for understanding true cause–and–effect relati
   – *The Book of Why* by Judea Pearl  
   – *Causal Inference in Statistics: A Primer* by Pearl, Glymour, & Jewell
 
-- **Online Courses:**  
-  – [Causal Inference with Python (Udacity)](https://www.udacity.com/course/causal-inference--ud188) *(Certificate available)*
-  – Tutorials on [CausalPython.io](https://causalpython.io/)
-
 - **Example Notebooks:**  
   Many packages include example notebooks to practice on simulated or real–world data.
 

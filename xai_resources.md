@@ -34,10 +34,6 @@ Understanding how and why models make predictions is crucial—especially in hig
 - **Book:**  
   – *Interpretable Machine Learning* by Christoph Molnar
 
-- **Online Courses & Tutorials:**  
-  – [Interpretable Machine Learning with SHAP (Udemy)](https://www.udemy.com/course/explainable-ai/) *(Certificate available)*
-  – Check out the [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) repository for additional examples.
-
 - **Workshops & Conferences:**  
   – Tutorials by experts (e.g., Himabindu Lakkaraju) at conferences such as FAccT.
 

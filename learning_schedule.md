@@ -18,8 +18,6 @@ This schedule is designed for busy professionals who wish to deepen their expert
 - **Activities:**  
   – Read introductory chapters from *The Book of Why* by Judea Pearl  
   – Watch overview videos on XAI and responsible AI on YouTube  
-- **Credential:**  
-  – [AI For Everyone (Coursera)](https://www.coursera.org/learn/ai-for-everyone) *(Verified certificate available)*
 - **Time:** ~10 hours
 
 ---
@@ -30,8 +28,6 @@ This schedule is designed for busy professionals who wish to deepen their expert
 - **Activities:**  
   – Complete a Python for Data Science refresher course  
   – Practice exercises in Jupyter Notebooks  
-- **Credential:**  
-  – [Python for Data Science (IBM, Coursera)](https://www.coursera.org/learn/python-for-applied-data-science-ai) *(Verified certificate available)*
 - **Time:** ~10 hours
 
 ---
@@ -43,8 +39,6 @@ This schedule is designed for busy professionals who wish to deepen their expert
 - **Activities:**  
   – Explore tutorials on [CausalPython.io](https://causalpython.io/)  
   – Experiment with simple examples using DoWhy
-- **Credential:**  
-  – [Causal Inference with Python (Udacity)](https://www.udacity.com/course/causal-inference--ud188) *(Verified certificate available)*
 - **Time:** ~10 hours
 
 ---
@@ -76,8 +70,6 @@ This schedule is designed for busy professionals who wish to deepen their expert
 - **Activities:**  
   – Read *Interpretable Machine Learning* by Christoph Molnar (selected chapters)  
   – Apply SHAP and LIME to explain a simple classification model
-- **Credential:**  
-  – [Interpretable Machine Learning with SHAP (Udemy)](https://www.udemy.com/course/explainable-ai/) *(Certificate available)*
 - **Time:** ~10 hours
 
 ---
@@ -89,8 +81,6 @@ This schedule is designed for busy professionals who wish to deepen their expert
 - **Activities:**  
   – Study the explainable clustering approach as described in resources such as the [ExKMC](https://github.com/navefr/ExKMC) and [ExClus](https://arxiv.org/abs/2111.03168) projects  
   – Apply the method on sample data and document results in a GitHub notebook
-- **Credential:**  
-  – Consider enrolling in a workshop or online module focused on explainable clustering (e.g., “Advanced Explainable AI Techniques” on Coursera or edX if available)  
 - **Time:** ~10 hours
 
 ---
@@ -112,8 +102,6 @@ This schedule is designed for busy professionals who wish to deepen their expert
 - **Activities:**  
   – Read *Fairness and Machine Learning* by Barocas, Hardt, and Narayanan  
   – Watch lectures on AI ethics
-- **Credential:**  
-  – [Ethics of AI and Big Data (edX)](https://www.edx.org/course/ethics-of-ai) *(Verified certificate available)*
 - **Time:** ~10 hours
 
 ---
@@ -156,20 +144,5 @@ This schedule is designed for busy professionals who wish to deepen their expert
   – Update your GitHub portfolio and resume with links to your projects and certificates  
   – Write a reflective summary on your learning journey
 - **Time:** ~12 hours
-
----
-
-## Credentialing & Resume–Boosting Resources Recap
-
-- **Coursera Verified Certificates:**  
-  – *AI For Everyone* (Andrew Ng)  
-  – *Python for Data Science* (IBM)  
-  – *Interpretable Machine Learning with SHAP*  
-- **edX Verified Certificates:**  
-  – *Ethics of AI and Big Data*  
-- **Udacity Nanodegrees:**  
-  – Nanodegree programs in Data Science and AI  
-- **Workshops & Projects:**  
-  – Hands–on projects in explainable clustering (using ExKMC/ExClus) and integrative projects published on GitHub can serve as strong portfolio pieces.
 
 Happy learning and best of luck on your journey to mastering responsible, interpretable, and ethical AI!

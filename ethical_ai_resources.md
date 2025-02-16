@@ -24,10 +24,6 @@ Ensuring that AI systems are fair, transparent, and accountable is essential whe
 - **Books:**  
   – *Fairness and Machine Learning* by Barocas, Hardt, and Narayanan
 
-- **Online Courses & Credentialed Resources:**  
-  – [Ethics of AI and Big Data (edX)](https://www.edx.org/course/ethics-of-ai) *(Verified certificate available)*
-  – Other Coursera/edX courses on AI ethics and responsible AI practices
-
 - **Workshops & Conferences:**  
   – Sessions at conferences such as FAccT provide case studies and practical guidelines for mitigating bias in AI systems.
 

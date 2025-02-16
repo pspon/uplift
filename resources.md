@@ -19,10 +19,4 @@ This page provides an overview of curated tools and learning resources covering 
 - **Explainable Clustering & Segmentation:**  
   Explore our dedicated page on [Explainable Clustering & Segmentation](explainable_clustering.md).
 
-Additionally, here are some credential–earning courses you might consider:
-- [AI For Everyone (Coursera)](https://www.coursera.org/learn/ai-for-everyone)
-- [Python for Data Science (IBM, Coursera)](https://www.coursera.org/learn/python-for-applied-data-science-ai)
-- [Interpretable Machine Learning with SHAP (Udemy)](https://www.udemy.com/course/explainable-ai/)
-- [Ethics of AI and Big Data (edX)](https://www.edx.org/course/ethics-of-ai)
-
 Be sure to explore the specialized pages for more detailed resources.

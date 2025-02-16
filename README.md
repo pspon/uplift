@@ -5,7 +5,7 @@ This repository provides a curated collection of advanced tools and learning res
 - **Explainable AI (XAI)**, including explainable clustering/segmentation
 - **Ethical AI**
 
-Designed for experienced data science leaders, the site includes a structured learning schedule, curated lists of packages and libraries, and recommendations for credentialed courses that you can add to your resume.
+Designed for experienced data science leaders, the site includes a structured learning schedule, curated lists of packages and libraries.
 
 ## Contents
 

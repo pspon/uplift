@@ -41,22 +41,11 @@ Modern applications—ranging from customer segmentation to image analysis—dem
   
 - **Interpretable:**  
   Supervised explainability using XGBoost and SHAP provides actionable insights into why data points belong to certain clusters—helping you build stakeholder trust and improve decision–making.
-
 ---
 
 ## Example Use Case
 
 Imagine you are clustering customer reviews (encoded as transformer embeddings). Rather than grouping them solely by distance (as in k-means), this pipeline first uses UMAP to capture the nonlinear manifold. Then, HDBSCAN detects clusters even in the presence of noisy reviews. Finally, an XGBoost model with SHAP explanations highlights the key words and phrases that define each cluster, offering a clear, interpretable segmentation.
-
----
-
-## Credentialed Learning Resources
-
-For those looking to bolster their resumes, consider these courses and certifications:
-- **[Interpretable Machine Learning with SHAP (Udemy)](https://www.udemy.com/course/explainable-ai/)**  
-  *Earn a certificate by completing practical projects in model explanation.*
-- **[Advanced Explainable AI (Coursera/edX)](https://www.coursera.org/)**  
-  *Look for courses that focus on explainable clustering techniques and density-based methods.*
 
 ---
 
